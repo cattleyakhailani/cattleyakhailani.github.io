@@ -1,4 +1,4 @@
-# https://cattleyakhailani.github.io/index.html?invited=Khailani
+# https://cattleyakhailani.github.io/index.html?invited=Guest
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
